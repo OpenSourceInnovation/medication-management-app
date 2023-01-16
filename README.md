@@ -2,7 +2,7 @@
 
 An app that helps patients track and manage their medications, including dosing, refills, and interactions, and that provides alerts and reminders.
 ## Product Requirements
-###Frontend: 
+### Frontend: 
 - Signup/Login to manage prescriptions
 - Interface to add medicine: time, dose, refill needs and set reminders for each of the categories
 - Calendar view to see upcoming refills
