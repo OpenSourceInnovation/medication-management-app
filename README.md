@@ -24,7 +24,7 @@ Choose any javascript frameworks or libraries you want to use. Preferences are
 - Postgres
 - Supabase
 
-## Mock design
+## Design inspiration
 - [Task Manager/calender App by Kawsar Ahmed for CLAW](https://dribbble.com/shots/16764078-Task-Manager-calender-App)
 - [Calendar for scheduling consultations by UGEM](https://dribbble.com/shots/14376775-Calendar-for-scheduling-consultations)
 
