@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  db:
+    container_name: postgres_medication
+    restart: always
+    image: postgres:15.1
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=medication
+    volumes:
+      - postgres_medication:/var/lib/postgresql
+    ports:
+      - 5431:5432
+
+volumes:
+  postgres_medication:
